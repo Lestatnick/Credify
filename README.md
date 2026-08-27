@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Java para simular o financiamento de um veículo e verificar se o valor da parcela está dentro do limite de 30% do salário mensal informado.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro do nome do cliente.
 - Entrada e validação do valor do veículo.
@@ -15,7 +15,7 @@ Projeto desenvolvido em Java para simular o financiamento de um veículo e verif
 - Verificação da aprovação ou reprovação do financiamento.
 - Exibição de um resumo da simulação.
 
-## 📊 Taxas de Juros
+## Taxas de Juros
 
 | Parcelas | Juros |
 | :---: | :---: |
@@ -25,7 +25,7 @@ Projeto desenvolvido em Java para simular o financiamento de um veículo e verif
 | 48x | 20% |
 | 60x | 30% |
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 src/
@@ -40,20 +40,20 @@ src/
 * `Calculo.java` — Contém os cálculos e a regra de aprovação.
 * `Exibicao.java` — Apresenta o resultado da simulação.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 * Java
 * Git
 * GitHub
 
-## 🔧 Como Executar
+## Como Executar
 
 1. Clone este repositório.
 2. Abra o projeto em uma IDE compatível com Java.
 3. Compile os arquivos `.java`.
 4. Execute a classe `Main`.
 
-## 📝 Exemplo de Uso
+## Exemplo de Uso
 
 ```text
 Digite o nome: João
