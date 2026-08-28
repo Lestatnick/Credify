@@ -4,7 +4,7 @@ Projeto desenvolvido em Java para simular o financiamento de um veículo e verif
 
 ## Funcionalidades
 
-- Cadastro do nome do cliente e tratativas de erro para números ou caracteres.
+- Cadastro do nome do cliente e tratativas de erro para números e caracteres.
 - Entrada e validação do valor do veículo.
 - Entrada e validação do salário mensal.
 - Escolha da quantidade de parcelas.
