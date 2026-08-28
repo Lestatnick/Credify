@@ -15,6 +15,7 @@ Projeto desenvolvido em Java para simular o financiamento de um veículo e verif
 - Verificação da aprovação ou reprovação do financiamento.
 - Exibição de um resumo da simulação.
 
+
 ## Taxas de Juros
 
 | Parcelas | Juros |
