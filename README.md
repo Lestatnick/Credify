@@ -58,18 +58,18 @@ src/
 
 ```text
 Digite o nome: João
-Digite o valor do veículo: R\$ 50000
-Digite o salário mensal: R\$ 3000
+Digite o valor do veículo: R$ 50000
+Digite o salário mensal: R$ 3000
 Digite a quantidade de parcelas (12, 24, 36, 48 ou 60): 60
 
 ===== Resumo da Simulação =====
 Nome: João
-Valor do veículo: R\$ 50000,00
+Valor do veículo: R$ 50000,00
 Quantidade de parcelas: 60x
 Juros aplicado: 30%
-Valor total com juros: R\$ 65000,00
-Valor da parcela: R\$ 1083,33
-Salário informado: R\$ 3000,00
-Limite de 30%: R\$ 900,00
+Valor total com juros: R$ 65000,00
+Valor da parcela: R$ 1083,33
+Salário informado: R$ 3000,00
+Limite de 30%: R$ 900,00
 Situação: REPROVADO
 ```
